@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Allow: /nl/
+Allow: /en/
+Allow: /
+Sitemap: https://beetjetelaatband.nl/sitemap.xml
